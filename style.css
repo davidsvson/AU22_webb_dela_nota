@@ -1,0 +1,8 @@
+section {
+    border: 1px solid gray;
+    width: 150px;
+}
+
+.hide {
+    display: none;
+}
